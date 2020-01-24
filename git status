@@ -1,0 +1,81 @@
+[33mcommit 8b93d8dbabed0e9e4fc0f2a2e50c369d6363d779[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: felipe barrientos <felipe.barrientos.m@gmail.com>
+Date:   Fri Jan 24 13:21:09 2020 -0300
+
+    avance territorio 4
+
+[33mcommit 92cd3f25ec0d43d3e96fbd889ad3a189c6f1c5b7[m
+Merge: c4ae889 7e14c93
+Author: felipe barrientos <felipe.barrientos.m@gmail.com>
+Date:   Fri Jan 24 12:57:15 2020 -0300
+
+    Merge branch 'master' of https://github.com/charlypesc/territorios
+
+[33mcommit c4ae889012d39c9a10d64c31b7ed64c3fb66353c[m
+Author: felipe barrientos <felipe.barrientos.m@gmail.com>
+Date:   Fri Jan 24 12:52:50 2020 -0300
+
+    Revert "se marcó territorio 4 con sus respectivas casas"
+    
+    This reverts commit bf375482a9df60c0eea32bac6576829c12b124e5.
+
+[33mcommit 7e14c9374ff5f2e8702dfd8babdef3896e156e93[m
+Author: charlypesc <cparedes.escobar@gmail.com>
+Date:   Fri Jan 24 12:47:10 2020 -0300
+
+    se agrega territorio 3
+
+[33mcommit bf375482a9df60c0eea32bac6576829c12b124e5[m
+Author: felipe barrientos <felipe.barrientos.m@gmail.com>
+Date:   Wed Jan 22 22:33:14 2020 -0300
+
+    se marcó territorio 4 con sus respectivas casas
+
+[33mcommit 2e807eb5d53f9cdd66896dab7f253e2bb01c924b[m
+Author: charlypesc <cparedes.escobar@gmail.com>
+Date:   Wed Jan 22 21:10:39 2020 -0300
+
+    se agrega la division completa de la isla aun pendiente la isla capera
+
+[33mcommit 7dde1a1c92264232bb2c455631763a6a067213b4[m
+Author: felipe barrientos <felipe.barrientos.m@gmail.com>
+Date:   Wed Jan 22 20:03:00 2020 -0300
+
+    hoy se creo territorio 2
+
+[33mcommit bbb4d24fdd47cb96b799eba7d7cb4c089f6cdf3a[m
+Author: pippe77 <felipe.barrientos.m@gmail.com>
+Date:   Tue Jan 21 21:40:30 2020 -0300
+
+    se crea territorio 1
+
+[33mcommit 36124d9d3f1a0f1ba31074a5d5985ee736588bfd[m
+Merge: 8bc0806 0fceaf5
+Author: Carlos Paredes <charly@Carloss-MacBook-Pro.local>
+Date:   Tue Jan 21 20:15:24 2020 -0300
+
+    cambio de carlos
+
+[33mcommit 0fceaf50626886fea207f5cab6c699e93e9c010d[m
+Author: Felipe Barrientos <felipe.barrientos.m@gmail.com>
+Date:   Tue Jan 21 20:12:51 2020 -0300
+
+    actualizacion de felipe
+
+[33mcommit 8bc08067e3b99f2f3a738b98c613ba32a9545e54[m
+Author: Carlos Paredes <charly@Carloss-MacBook-Pro.local>
+Date:   Tue Jan 21 20:07:27 2020 -0300
+
+    marca desde mac
+
+[33mcommit 9cc3c1ef721b4587c100733d91c6bb2bf160468f[m
+Author: Felipe Barrientos <felipe.barrientos.m@gmail.com>
+Date:   Tue Jan 21 20:03:40 2020 -0300
+
+    prueba desde windows
+
+[33mcommit d519af9d6c2811c9092af389b93e53e55ca2df7c[m
+Author: Carlos Paredes <charly@Carloss-MacBook-Pro.local>
+Date:   Tue Jan 21 19:06:14 2020 -0300
+
+    se inicia trabajo con territorios
